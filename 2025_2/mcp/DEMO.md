@@ -1,27 +1,35 @@
 # Demo Walkthrough
 
 
-### Junie with MCP
+## Junie with MCP
 
 
+### Prerequisites
 
-Follow the below steps:
-
-- Create an empty project
-- Open Junie, which is placed on the right and run the following prompts.
-- Please check `prompts.txt`
-
-**Notes**
 - Make sure Docker & npx are already running.
 - Create a MongoDB container  
 
 Run the following command to start MongoDB:
 
 ```shell
-
+docker run -d \
+--name mongodb-container \
+-e MONGO_INITDB_ROOT_USERNAME=admin \
+-e MONGO_INITDB_ROOT_PASSWORD=password \
+-e MONGO_INITDB_DATABASE=mydb \
+-p 27017:27017 \
+mongo
 ```
 
+Follow the following steps to establish MCP connection:
 
+![demo4](./images/demo4.png)
+
+![demo5](./images/demo5.png)
+
+![demo6](./images/demo6.png)
+
+Add the following JSON:
 
 ```shell
 {
@@ -46,3 +54,10 @@ Run the following command to start MongoDB:
   }
 }
 ```
+Make sure all the connections are already pre-configured before starting the demo. 
+
+### During the Demo
+
+- Create an empty project
+- Open Junie, which is placed on the right and run the following prompts.
+- Please check `prompts.txt`
