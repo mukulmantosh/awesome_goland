@@ -1,0 +1,11 @@
+### Get all items
+GET http://localhost:8080/items
+
+
+### Create a Item
+POST http://localhost:8080/item
+Content-Type: application/json
+
+{
+  "name": "Gopher"
+}
