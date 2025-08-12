@@ -3,6 +3,8 @@
 
 ### Docker Run Target
 
+- Before going ahead, make sure you have Docker installed on your machine.
+- Open the project in GoLand, and there should be a Dockerfile in the project.
 - Open Run Configuration
 
 Follow the steps provided below:
@@ -22,3 +24,4 @@ Continue with the configuration
 ![step5](./images/demo5.png)
 
 
+For more information, please refer to the [documentation](https://www.jetbrains.com/help/go/docker-run-targets.html).
