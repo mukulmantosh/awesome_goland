@@ -1,6 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Run Smarter Endpoint Discovery" type="GoApplicationRunConfiguration" factoryName="Go Application">
     <module name="gophercon_demos" />
+    <target name="Docker-Go:1.24" />
     <working_directory value="$PROJECT_DIR$/2025_2/smarter_endpoint_discovery" />
     <kind value="PACKAGE" />
     <package value="web_app" />
