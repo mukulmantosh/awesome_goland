@@ -69,7 +69,7 @@ func main() {
 		}
 	}()
 
-	// Wait for termination signal
+	// Wait for the termination signal
 	<-shutdownCh
 	log.Println("shutting down...")
 

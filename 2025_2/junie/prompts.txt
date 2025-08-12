@@ -1,0 +1,9 @@
+PROMPT-1
+
+
+I want to set up a new Go backend project using Gin. The goal is to create a well-organized project structure with separate folders for routers, services, and models, and include a sample route to confirm everything is wired up correctly. It should include a basic database setup using GORM with migrations, as of now just use sqlite. I want this to be a clean starting point that I can build on later for a larger API project. Follow best practices for Gin, and make sure all dependencies are installed so the server starts without any issues.
+
+
+PROMPT-2
+
+I want to develop a Go CLI project using Cobra/Viper. This Kubernetes CLI will primarily focus on creating, listing, and deleting pods, with an initial connection to my local cluster. Make sure to adhere to the best practices for CLI development throughout the project.
