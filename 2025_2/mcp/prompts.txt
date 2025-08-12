@@ -1,0 +1,13 @@
+PROMPT 1
+
+
+Can you create a MongoDB collection, add some documents, and then display the list?
+
+
+PROMPT 2
+
+Let’s build incrementally:
+
+1. Can you capture a screenshot of https://github.com/mukulmantosh using Playwright
+2. Once the image is saved, I want to build a Go App which renders this image in an HTML file
+
