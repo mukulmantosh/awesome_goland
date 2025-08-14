@@ -14,7 +14,6 @@ func TestEmployee_Greet(t *testing.T) {
 		name   string
 		fields fields
 	}{
-		// TODO: Add test cases.
 		{
 			name:   "Test1",
 			fields: fields{Name: "Bob", Age: 22},
