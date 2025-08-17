@@ -29,7 +29,9 @@ Follow the following steps to establish MCP connection:
 
 ![demo6](./images/demo6.png)
 
-Add the following JSON:
+Add the following JSON, which includes both Playwright and MongoDB:
+
+* Note: Make sure [npx](https://docs.npmjs.com/cli/v8/commands/npx) is installed in your machine. 
 
 ```shell
 {
