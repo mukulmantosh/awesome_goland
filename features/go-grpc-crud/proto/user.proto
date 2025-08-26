@@ -1,0 +1,78 @@
+syntax = "proto3";
+
+package user;
+
+option go_package = "github.com/mukulmantosh/go-grpc-crud/proto";
+
+// User service definition
+service UserService {
+  // Create a new user
+  rpc CreateUser(CreateUserRequest) returns (UserResponse) {}
+  
+  // Get a user by ID
+  rpc GetUser(GetUserRequest) returns (UserResponse) {}
+  
+  // List all users
+  rpc ListUsers(ListUsersRequest) returns (ListUsersResponse) {}
+  
+  // Update an existing user
+  rpc UpdateUser(UpdateUserRequest) returns (UserResponse) {}
+  
+  // Delete a user
+  rpc DeleteUser(DeleteUserRequest) returns (DeleteUserResponse) {}
+}
+
+// User message represents a user entity
+message User {
+  string id = 1;
+  string name = 2;
+  string email = 3;
+  int32 age = 4;
+  string created_at = 5;
+  string updated_at = 6;
+}
+
+// Request message for creating a user
+message CreateUserRequest {
+  string name = 1;
+  string email = 2;
+  int32 age = 3;
+}
+
+// Request message for getting a user by ID
+message GetUserRequest {
+  string id = 1;
+}
+
+// Request message for listing users
+message ListUsersRequest {
+  // Empty for now, could add pagination parameters later
+}
+
+// Response message for listing users
+message ListUsersResponse {
+  repeated User users = 1;
+}
+
+// Request message for updating a user
+message UpdateUserRequest {
+  string id = 1;
+  string name = 2;
+  string email = 3;
+  int32 age = 4;
+}
+
+// Request message for deleting a user
+message DeleteUserRequest {
+  string id = 1;
+}
+
+// Response message for delete operation
+message DeleteUserResponse {
+  bool success = 1;
+}
+
+// Standard user response
+message UserResponse {
+  User user = 1;
+}

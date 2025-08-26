@@ -1,0 +1,41 @@
+GRPC localhost:50051/user.UserService/CreateUser
+
+
+{
+  "name" :"Mukul",
+  "email": "mukul@goland.com",
+  "age": 25
+}
+
+
+###
+@userId = "0b750b6a-c120-4837-a4b7-1f5b9113712a"
+GRPC localhost:50051/user.UserService/GetUser
+
+{
+  "id": {{userId}}
+}
+
+
+###
+GRPC localhost:50051/user.UserService/ListUsers
+
+
+
+###
+GRPC localhost:50051/user.UserService/UpdateUser
+
+{
+  "id": {{userId}},
+  "name": "Mukul",
+  "email": "mukul@goland.com",
+  "age": 45
+}
+
+
+###
+GRPC localhost:50051/user.UserService/DeleteUser
+
+{
+  "id": {{userId}}
+}
