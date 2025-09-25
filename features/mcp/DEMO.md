@@ -23,11 +23,11 @@ mongo
 
 Follow the following steps to establish MCP connection:
 
-![demo4](./images/demo4.png)
+![demo4](images/demo4.png)
 
-![demo5](./images/demo5.png)
+![demo5](images/demo5.png)
 
-![demo6](./images/demo6.png)
+![demo6](images/demo6.png)
 
 Add the following JSON, which includes both Playwright and MongoDB:
 
