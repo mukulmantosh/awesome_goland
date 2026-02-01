@@ -1,6 +1,6 @@
 # Awesome GoLand
 
-![awesome](./misc/images/awesome.png)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > /* A curated guide to the best tips and tricks for mastering GoLand. */
 
