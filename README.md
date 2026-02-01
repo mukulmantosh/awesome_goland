@@ -1,5 +1,7 @@
 # Awesome GoLand
 
+![awesome](./misc/images/awesome.png)
+
 > /* A curated guide to the best tips and tricks for mastering GoLand. */
 
 ![background](./misc/images/background.png)
