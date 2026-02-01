@@ -44,5 +44,11 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 
 ---
 
+### JetBrains Guide
+
+You can also check out the [JetBrains Guide](https://www.jetbrains.com/guide/go/) for more in-depth knowledge about GoLand.
+
+---
+
 *This repository is maintained for demonstration purposes in Go-related conferences and workshops.*
 
