@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-> /* A curated guide to the best tips and tricks for mastering GoLand. */
+> A curated guide to the best tips and tricks for mastering GoLand.
 
 ![background](./misc/images/background.png)
 
