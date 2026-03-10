@@ -124,10 +124,6 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you find this repository helpful, please consider giving it a ⭐ to show your support!
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -141,7 +137,7 @@ Join the conversation and connect with other Go developers:
 -  [Gophers Slack](https://gophers.slack.com/) — Official Slack community for Go developers. Join the `#goland` channel for GoLand discussions.
 -  [Follow GoLand on X](https://x.com/GoLandIDE) — New features: `#NewInGoLand` | Tips and tricks: `#GoLandTip`
 
-Found this helpful? Consider giving it a ⭐  it means a lot!
+Found this helpful? Consider giving it a ⭐ it means a lot!
 
 
 ## Resources
