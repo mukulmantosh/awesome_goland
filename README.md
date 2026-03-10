@@ -26,7 +26,6 @@ Whether you're new to GoLand or a seasoned user, this repository helps you unloc
 ---
 
 ## Table of Contents
-- [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
 - [Featured Modules](#featured-modules)
@@ -53,7 +52,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/JetBrains/awesome-goland.git
+   git clone https://github.com/mukulmantosh/awesome-goland.git
    cd awesome-goland
    ```
 2. **Open in GoLand:**
@@ -88,13 +87,14 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 ### AI & Extensibility
 - **[Junie](./features/junie)**: Explore AI-assisted development workflows. [View Demo](./features/junie/DEMO.md).
 - **[MCP (Model Context Protocol)](./features/mcp)**: Enhancing LLM interactions within the IDE. [View Demo](./features/mcp/DEMO.md).
+- **[Junie Guidelines for Go Apps](https://github.com/JetBrains/junie-guidelines/tree/main/guidelines/go)**: A GitHub repository that provides a collection of technology-specific guidelines to improve Junie code generation.
+
 
 ## How to Use
 
 1. **Explore Modules**: Navigate to any directory in `features/` to see specific examples.
 2. **Follow Demos**: Most modules include a `DEMO.md` file with step-by-step instructions.
 3. **Run Code**: Use GoLand's gutter icons (run/debug) to execute the `main.go` or `*_test.go` files.
-4. **Use Hotkeys**: Keep an eye out for "Pro Tips" in the demos which highlight GoLand shortcuts.
 
 
 ## Blogs
@@ -122,8 +122,6 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - [Reference Sheet](https://resources.jetbrains.com/storage/products/goland/docs/GoLand_ReferenceCard.pdf)
 
 
-
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -136,13 +134,23 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Community
+
+Join the conversation and connect with other Go developers:
+
+-  [Gophers Slack](https://gophers.slack.com/) — Official Slack community for Go developers. Join the `#goland` channel for GoLand discussions.
+-  [Follow GoLand on X](https://x.com/GoLandIDE) — New features: `#NewInGoLand` | Tips and tricks: `#GoLandTip`
+
+Found this helpful? Consider giving it a ⭐  it means a lot!
+
+
 ## Resources
+
+![guide](./misc/images/guide.gif)
 
 - [Official GoLand Documentation](https://www.jetbrains.com/help/go/)
 - [JetBrains Guide for Go](https://www.jetbrains.com/guide/go/)
 - [GoLand Blog](https://blog.jetbrains.com/go/)
-
-![guide](./misc/images/guide.gif)
 
 ## License 
 
