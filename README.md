@@ -26,8 +26,7 @@ Welcome to **Awesome GoLand**, a curated repository showcasing powerful features
   - [AI & Extensibility](#ai--extensibility)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [Resources](#resources)
-- [License](#license)
+
 
 ---
 
@@ -86,6 +85,13 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 3. **Run Code**: Use GoLand's gutter icons (run/debug) to execute the `main.go` or `*_test.go` files.
 4. **Use Hotkeys**: Keep an eye out for "Pro Tips" in the demos which highlight GoLand shortcuts.
 
+
+## Blogs
+
+- **[“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)**
+- **[Preventing Resource Leaks in Go: How GoLand Helps You Write Safer Code](https://blog.jetbrains.com/go/2025/12/09/preventing-resource-leaks-in-go-how-goland-helps-you-write-safer-code/)**
+- **[Interprocedural Analysis: Catch nil Dereferences Before They Crash Your Code](https://blog.jetbrains.com/go/2025/07/28/interprocedural-analysis-catch-nil-dereferences-before-they-crash-your-code/)**
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -105,6 +111,8 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - [GoLand Blog](https://blog.jetbrains.com/go/)
 
 
+## License 
 
+MIT
 
 
