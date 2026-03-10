@@ -8,9 +8,20 @@
 
 ![background](./misc/images/background.png)
 
-## Overview
+## Why Awesome GoLand?
 
-Welcome to **Awesome GoLand**, a curated repository showcasing powerful features, tips, and tricks for mastering GoLand. This project contains demonstration materials and sample code for various Go development scenarios, ranging from basic debugging to advanced cloud-native workflows.
+Whether you're new to GoLand or a seasoned user, this repository helps you unlock the IDE's full potential:
+
+- 🐛 **Debug Like a Pro** — Master goroutine labeling, smart step-into, and core dumps
+- 🧪 **Automate Testing** — Generate and run tests with minimal effort
+- 🔄 **JSON ↔ Struct** — Convert JSON to Go structs in seconds
+- 🐳 **Cloud-Native Ready** — Docker and Kubernetes workflows out of the box
+- ⚡ **Performance Insights** — CPU, memory, and block profiling made simple
+- 🤖 **AI-Powered Coding** — Explore Junie and MCP for smarter development
+- 🔍 **Structural Refactoring** — Pattern-based search and replace across your codebase
+
+> 💡 Each module includes hands-on demos — learn by doing, not just reading.
+
 
 ---
 
@@ -88,6 +99,7 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 
 ## Blogs
 
+- **[Write Modern Go Code With Junie and Claude Code](https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/)**
 - **[“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)**
 - **[Preventing Resource Leaks in Go: How GoLand Helps You Write Safer Code](https://blog.jetbrains.com/go/2025/12/09/preventing-resource-leaks-in-go-how-goland-helps-you-write-safer-code/)**
 - **[Interprocedural Analysis: Catch nil Dereferences Before They Crash Your Code](https://blog.jetbrains.com/go/2025/07/28/interprocedural-analysis-catch-nil-dereferences-before-they-crash-your-code/)**
@@ -98,9 +110,19 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[Build a Blog With Go Templates](https://blog.jetbrains.com/go/2022/11/08/build-a-blog-with-go-templates/)**
 
 
+## YouTube Videos & Playlist
+
+- **[GoLand Playlist](https://www.youtube.com/playlist?list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV)**
+- **[Spot the Nil Dereference: How to avoid a billion-dollar mistake](https://www.youtube.com/watch?v=lNnSRakOlvI)**
+- **[GopherCon 2025: Nil Today, Outage Tomorrow - Mukul Mantosh](https://www.youtube.com/watch?v=dEnn45M2Los)**
+- **[GopherCon 2023: The Blueprints to Building Your Own Badass Community - Benjamin Bryant](https://www.youtube.com/watch?v=sxflWkIvRUU)**
+
 ## Mastering Shortcuts
 
 - [Reference Sheet](https://resources.jetbrains.com/storage/products/goland/docs/GoLand_ReferenceCard.pdf)
+
+
+
 
 ## Contributing
 
