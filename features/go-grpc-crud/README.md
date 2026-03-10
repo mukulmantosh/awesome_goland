@@ -90,3 +90,10 @@ protoc --go_out=. --go_opt=paths=source_relative --go-grpc_out=. --go-grpc_opt=p
 - UUIDs are used for user IDs
 - Basic validation is implemented for all operations
 - The server includes graceful shutdown handling
+
+
+---
+
+Start interacting with GRPC endpoints directly from the IDE, open `endpoints.http`
+
+![endpoints](./images/endpoints.png)
