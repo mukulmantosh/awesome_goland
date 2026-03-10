@@ -97,6 +97,11 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[Comprehensive Guide to Testing in Go](https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/)**
 - **[Build a Blog With Go Templates](https://blog.jetbrains.com/go/2022/11/08/build-a-blog-with-go-templates/)**
 
+
+## Mastering Shortcuts
+
+- [Reference Sheet](https://resources.jetbrains.com/storage/products/goland/docs/GoLand_ReferenceCard.pdf)
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
