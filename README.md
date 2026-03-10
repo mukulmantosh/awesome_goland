@@ -142,6 +142,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - [JetBrains Guide for Go](https://www.jetbrains.com/guide/go/)
 - [GoLand Blog](https://blog.jetbrains.com/go/)
 
+![guide](./misc/images/guide.gif)
 
 ## License 
 
