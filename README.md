@@ -91,6 +91,11 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)**
 - **[Preventing Resource Leaks in Go: How GoLand Helps You Write Safer Code](https://blog.jetbrains.com/go/2025/12/09/preventing-resource-leaks-in-go-how-goland-helps-you-write-safer-code/)**
 - **[Interprocedural Analysis: Catch nil Dereferences Before They Crash Your Code](https://blog.jetbrains.com/go/2025/07/28/interprocedural-analysis-catch-nil-dereferences-before-they-crash-your-code/)**
+- **[Deploying Go Apps with Kubernetes](https://blog.jetbrains.com/go/2024/11/20/deploying-go-apps-with-kubernetes)**
+- **[Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)**
+- **[Profiling Go Code with GoLand](https://blog.jetbrains.com/go/2023/02/02/profiling-go-code-with-goland/)**
+- **[Comprehensive Guide to Testing in Go](https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/)**
+- **[Build a Blog With Go Templates](https://blog.jetbrains.com/go/2022/11/08/build-a-blog-with-go-templates/)**
 
 ## Contributing
 
