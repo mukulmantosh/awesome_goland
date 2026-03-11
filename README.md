@@ -99,6 +99,7 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 
 ## Blogs
 
+- **[Moving Your Codebase to Go 1.26 With GoLand Syntax Updates](https://blog.jetbrains.com/go/2026/02/13/moving-your-codebase-to-go-1-26-with-goland-syntax-updates/)**
 - **[Best Practices for Secure Error Handling in Go](https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/)**
 - **[Write Modern Go Code With Junie and Claude Code](https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/)**
 - **[“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)**
