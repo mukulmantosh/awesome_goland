@@ -52,12 +52,12 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mukulmantosh/awesome-goland.git
-   cd awesome-goland
+   git clone https://github.com/mukulmantosh/awesome_goland.git
+   cd awesome_goland
    ```
 2. **Open in GoLand:**
    - Launch GoLand.
-   - Click `Open` and select the `awesome-goland` directory.
+   - Click `Open` and select the `awesome_goland` directory.
 3. **Download dependencies:**
    - GoLand will automatically detect `go.mod` files and prompt you to download dependencies.
    - Alternatively, run: `go mod download` in the root (though many modules have their own `go.mod`).
@@ -99,6 +99,7 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 
 ## Blogs
 
+- **[Best Practices for Secure Error Handling in Go](https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/)**
 - **[Write Modern Go Code With Junie and Claude Code](https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/)**
 - **[“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)**
 - **[Preventing Resource Leaks in Go: How GoLand Helps You Write Safer Code](https://blog.jetbrains.com/go/2025/12/09/preventing-resource-leaks-in-go-how-goland-helps-you-write-safer-code/)**
