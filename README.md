@@ -111,6 +111,10 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[Build a Blog With Go Templates](https://blog.jetbrains.com/go/2022/11/08/build-a-blog-with-go-templates/)**
 
 
+## Repos
+
+- **[Modern Go Guidelines – Best practices that help coding agents write clean, efficient, and idiomatic Go code](https://github.com/JetBrains/go-modern-guidelines)**
+
 ## YouTube Videos & Playlist
 
 - **[GoLand Playlist](https://www.youtube.com/playlist?list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV)**
