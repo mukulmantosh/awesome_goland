@@ -130,6 +130,11 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[GopherCon 2025: Nil Today, Outage Tomorrow - Mukul Mantosh](https://www.youtube.com/watch?v=dEnn45M2Los)**
 - **[GopherCon 2023: The Blueprints to Building Your Own Badass Community - Benjamin Bryant](https://www.youtube.com/watch?v=sxflWkIvRUU)**
 
+## Courses
+
+- **[Mastering Go with GoLand - byteSizeGo](https://www.bytesizego.com/courses/mastering-go-with-goland)**
+
+
 ## Mastering Shortcuts
 
 - [Reference Sheet](https://resources.jetbrains.com/storage/products/goland/docs/GoLand_ReferenceCard.pdf)
