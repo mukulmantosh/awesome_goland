@@ -160,10 +160,7 @@ Found this helpful? Consider giving it a ⭐ it means a lot!
 
 ## Resources
 
-![guide](./misc/images/guide.gif)
-
 - [Official GoLand Documentation](https://www.jetbrains.com/help/go/)
-- [JetBrains Guide for Go](https://www.jetbrains.com/guide/go/)
 - [GoLand Blog](https://blog.jetbrains.com/go/)
 
 ## License 
