@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed:
 
 Each module is designed to demonstrate specific GoLand capabilities. Look for `DEMO.md` or `README.md` in each directory for detailed walkthroughs.
 
-### Core Development
+## Core Development
 
 - **[Debugging](./features/debugging)**: Master the debugger with [Smart Step Into](./features/debugging/smart_step), [Goroutine Labeling](./features/debugging/label_goroutines), and [Core Dumps](./features/debugging/dump_goroutines).
 
@@ -80,12 +80,9 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[gRPC CRUD](./features/go-grpc-crud)**: A complete gRPC service implementation with Create, Read, Update, and Delete operations. [Read More](./features/go-grpc-crud/README.md).
 - **[Endpoint Discovery](./features/smarter_endpoint_discovery)**: Use the Endpoints tool window to discover and test your REST APIs. [View Demo](./features/smarter_endpoint_discovery/DEMO.md).
 
-### Docker & Kubernetes
+### Docker & Kubernetes 🐳 ☸️
 
-#### 🐳 Docker
 - **[Docker Run Targets](./features/docker/targets/basic_rest_sqlite)**: Learn how to run and debug Go applications inside Docker containers. [View Demo](./features/docker/targets/basic_rest_sqlite/DEMO.md).
-
-#### ☸️ Kubernetes
 - **[Kubernetes Integration](./features/kubernetes)**: Orchestrate your Go services with Kubernetes integration. [View Walkthrough](./features/kubernetes/DEMO.md).
 - **[Debugging Kubernetes Pods with Telepresence](https://www.youtube.com/watch?v=3khaEf7bmWI)**: Learn how to debug pods directly in the cluster.
 - **[Deploying Go Apps with Kubernetes](https://blog.jetbrains.com/go/2024/11/20/deploying-go-apps-with-kubernetes)**: Step-by-step guide from the official JetBrains blog.
