@@ -1,0 +1,13 @@
+# Demo Walkthrough
+
+### Implement an Interface
+
+![demo](./thumbnail.png)
+
+GoLand offers the option to quickly implement an interface using the _Implement methods_ action. Starting with GoLand 2023.1, this action works with exported and unexported interfaces.
+
+Click the type and press <kbd>^I</kbd> (macOS) / <kbd>Ctrl+I (Windows/Linux)</kbd>. In the search field, type a name of the interface that you want to implement.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

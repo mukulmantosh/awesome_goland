@@ -1,0 +1,19 @@
+# Demo Walkthrough
+
+### Method-like Completion for Functions
+
+![demo](./method_like_completion.gif)
+
+_Method-like completion_ for functions allows you to search for functions based on their first parameter.
+
+Imagine you are new to Go and want to split a string.
+
+You know that there must be a function for that, most likely it's called `Split` and accepts a string as the first argument, but you don't know the exact name of the function and its package.
+
+Here's where method-like completion comes in handy, offering you a list of all suitable functions, automatically importing it upon selection.
+
+Hold down the <kbd>Ctrl</kbd> key and press <kbd>Space</kbd> twice.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>
