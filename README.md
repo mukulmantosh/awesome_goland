@@ -94,6 +94,7 @@ Each module is designed to demonstrate specific GoLand capabilities. Look for `D
 - **[Junie](./features/junie)**: Explore AI-assisted development workflows. [View Demo](./features/junie/DEMO.md).
 - **[MCP (Model Context Protocol)](./features/mcp)**: Enhancing LLM interactions within the IDE. [View Demo](./features/mcp/DEMO.md).
 - **[Junie Guidelines for Go Apps](https://github.com/JetBrains/junie-guidelines/tree/main/guidelines/go)**: A GitHub repository that provides a collection of technology-specific guidelines to improve Junie code generation.
+- **[Golang Agent Skills](https://github.com/samber/cc-skills-golang)**: Agent Skills for production-ready Golang projects
 
 
 ## Tips & Tricks
