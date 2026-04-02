@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Code completion in Evaluate Expression, Watches or Conditional Breakpoints
 
@@ -8,3 +8,7 @@ You got it right, the debugger also has code completion! GoLand provides a sugge
 
 As you start typing in the _Evaluate Expression_, _Watches_ or _Conditional Breakpoints_ dialogs, code
 completion will appear immediately.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

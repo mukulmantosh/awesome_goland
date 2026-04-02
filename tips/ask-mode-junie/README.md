@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### What is Junie's Ask Mode?
 
@@ -16,3 +16,7 @@ AIA and Junie differ primarily in their context collection methods, which are im
 ![ask_mode_aia](./ask_mode_aia.png)
 
 AIA offers the advantage of speed, as it sends a single request to the LLM. In contrast, Junie iterates on the task, making multiple LLM calls. Junie's iterative method has the potential to produce more precise responses, but it might require more generation time than AIA.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

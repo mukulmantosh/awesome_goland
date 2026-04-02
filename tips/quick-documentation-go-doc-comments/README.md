@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Go Doc Comments in Quick Documentation
 
@@ -13,3 +13,7 @@ Both text and doc links are rendered as links in the _Quick Documentation_ popup
 Headings (#) and lists (\*, +, 1.) are also supported.
 
 To see documentation about an element in your code, hover the mouse over the element or click it and press <kbd>F1</kbd> (macOS) / <kbd>Ctrl+Q</kbd> (Windows/Linux). To open documentation in the _Documentation_ tool window, press <kbd>F1</kbd> (macOS) / <kbd>Ctrl+Q</kbd> (Windows/Linux) twice.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

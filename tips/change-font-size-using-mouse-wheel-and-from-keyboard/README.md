@@ -1,13 +1,17 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Change the editor font size using the mouse wheel
 
 ![demo](./thumbnail.png)
 
-Invoke **Settings**, then select **GoLand | Settings** for macOS or **File | Settings** for Windows and Linux. Alternatively, press <kbd> âŒ˜ Cmd ,</kbd>.
+Invoke **Settings**, then select **GoLand | Settings** for macOS or **File | Settings** for Windows and Linux. Alternatively, press <kbd> ⌘ Cmd ,</kbd>.
 
 Then navigate to `Editor > General > Change font size with Ctrl+Mouse Wheel`. You can then increase or decrease the font size of your editor using the mouse wheel.
 
 ![mouse_wheel](./mouse_wheel.png)
 
-To increase the font size with your keyboard, use <kbd>âŒƒâ‡§.</kbd> (macOS) / <kbd>Alt+Shift+Period</kbd> (Windows/Linux). To decrease it, press <kbd>âŒƒâ‡§,</kbd> (macOS) / <kbd>Alt+Shift+Comma</kbd> (Windows/Linux).
+To increase the font size with your keyboard, use <kbd>⌃⇧.</kbd> (macOS) / <kbd>Alt+Shift+Period</kbd> (Windows/Linux). To decrease it, press <kbd>⌃⇧,</kbd> (macOS) / <kbd>Alt+Shift+Comma</kbd> (Windows/Linux).
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

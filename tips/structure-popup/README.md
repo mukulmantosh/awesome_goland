@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### File Structure Popup
 
@@ -8,8 +8,12 @@ The File Structure popup window allows you to get an overview of all the element
 
 You can use it to navigate to any definition and invoke it from anywhere.
 
-Use <kbd>âŒ˜F12</kbd> (macOS) / <kbd>Ctrl+F12</kbd> (Windows/Linux), and a window with all the elements defined in the current file will show up.
+Use <kbd>⌘F12</kbd> (macOS) / <kbd>Ctrl+F12</kbd> (Windows/Linux), and a window with all the elements defined in the current file will show up.
 
-Press <kbd>âŒ˜F12</kbd> (macOS) / <kbd>Ctrl+F12</kbd> (Windows/Linux), again with the window still open, and it will show all the elements defined in the package of the current file.
+Press <kbd>⌘F12</kbd> (macOS) / <kbd>Ctrl+F12</kbd> (Windows/Linux), again with the window still open, and it will show all the elements defined in the package of the current file.
 
 _Speed Typing_ can then help you to narrow down the list of elements to the one that you need.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

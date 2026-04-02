@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Exclude Items from Auto-imports and Completion
 
@@ -7,3 +7,7 @@
 Exclude undesired imports from being automatically imported or added to a completion list.
 
 In **Settings/Preferences | Go | Imports** you can add as many as you want import statements that will be excluded from code completion and auto-import.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

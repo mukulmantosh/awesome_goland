@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Method-like Completion for Functions
 
@@ -13,3 +13,7 @@ You know that there must be a function for that, most likely it's called `Split`
 Here's where method-like completion comes in handy, offering you a list of all suitable functions, automatically importing it upon selection.
 
 Hold down the <kbd>Ctrl</kbd> key and press <kbd>Space</kbd> twice.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

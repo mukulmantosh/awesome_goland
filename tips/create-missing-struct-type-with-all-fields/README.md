@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Create Missing Struct Types with all Fields
 
@@ -6,6 +6,10 @@
 
 Place the cursor on a type that's not yet defined but used.
 
-Then, press <kbd>âŒ¥âŽ</kbd> (macOS) / <kbd>Alt+Enter</kbd> (Windows/Linux) and select the **Create type** action.
+Then, press <kbd>⌥⏎</kbd> (macOS) / <kbd>Alt+Enter</kbd> (Windows/Linux) and select the **Create type** action.
 
 A type will be created. It will include all the fields too.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

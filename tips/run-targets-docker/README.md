@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Run Target support via Docker
 
@@ -23,3 +23,7 @@ Configure any additional options, and, finally, run the configuration as with an
 If you want to compile your sources in a remote environment, then select the **Build on remote environment** option from the _Run Configuration_ settings.
 
 If you choose to compile on the local machine instead, you don't need to worry about ensuring the dependencies are available in the remote environment.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

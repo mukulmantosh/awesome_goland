@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Navigate to File
 
@@ -10,8 +10,12 @@ You to search for a file in the current project only, your source code only, or 
 
 **How to use:**
 
-Press <kbd>âŒ˜â‡§O</kbd> (macOS) / <kbd>Ctrl+Shift+N</kbd> (Windows/Linux) to invoke _Navigate to file_.
+Press <kbd>⌘⇧O</kbd> (macOS) / <kbd>Ctrl+Shift+N</kbd> (Windows/Linux) to invoke _Navigate to file_.
 
 **Pro tip:**
 
 As a hidden gem, try finding a directory by name.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

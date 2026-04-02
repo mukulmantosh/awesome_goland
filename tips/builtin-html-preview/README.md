@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Builtin HTML preview
 
@@ -13,3 +13,7 @@ When you are done, close it like you would any other tool window.
 
 **Pro tip:** Your IDE uses <a href="https://github.com/JetBrains/jcef">JCEF</a>
 to display the page, which is based on the Chromium browser.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

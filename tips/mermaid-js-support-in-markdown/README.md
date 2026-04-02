@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Full Support of Mermaid Syntax
 
@@ -12,3 +12,7 @@ You can choose between the following installation options:
 - In the IDE, click `Install plugin` in the notification panel when editing `.mmd` or `.mermaid` files.
 - In the IDE, click the `Install Mermaid plugin` icon that appears in the gutter in Markdown files.
 - Download the plugin directly from the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/20146-mermaid) and install it by using [the following procedure](https://www.jetbrains.com/help/go/managing-plugins.html#install_plugin_from_disk).
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

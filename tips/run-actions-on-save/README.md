@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Run actions on save
 
@@ -9,3 +9,7 @@ If you want to perform tasks on save, you can now use the _Actions on save_ feat
 **How to use:**
 
 Turn on the actions you want to perform on save in the **Settings/Preferences | Tools | Actions on Save** section of the IDE.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

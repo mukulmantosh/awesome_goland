@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Support for go:embed Directive
 
@@ -13,3 +13,7 @@ If you want to embed a directory, then you must use the _embed.FS_ type for the 
 You don't need to do anything special to get the IDE to support this feature.
 
 Open any Go 1.16, or newer, based project, and embed what you need.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

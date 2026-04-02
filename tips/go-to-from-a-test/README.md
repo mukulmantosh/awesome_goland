@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Go To or From a Test
 
@@ -6,6 +6,10 @@
 
 Use the **Navigate | Test** feature to quickly go to a test for an element.
 
-Press <kbd>âŒ˜â‡§T</kbd> (macOS) / <kbd>Ctrl+Shift+T</kbd> (Windows/Linux).
+Press <kbd>⌘⇧T</kbd> (macOS) / <kbd>Ctrl+Shift+T</kbd> (Windows/Linux).
 
 Press the same shortcut on a test, and you'll be able to jump back to the element that is the subject of the test.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

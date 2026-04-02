@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Code coverage for applications
 
@@ -14,3 +14,7 @@ Click the run icon in the gutter and select **Run <run/debug configuration name>
 <img src="screenshot.png" alt="Code coverage for applications" title="Code coverage for applications" width="706"/>
 
 <span class="tag is-rounded">New in 2023.3</span>
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

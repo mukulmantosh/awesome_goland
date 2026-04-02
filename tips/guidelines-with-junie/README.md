@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Go App Project Guidelines using Junie
 
@@ -21,23 +21,23 @@ Replace this text with any project-level instructions for Junie, e.g.:
 ```sh
 This is the recommended project structure. For more details, you can also check out: https://github.com/golang-standards/project-layout
 myapp/
-â”œâ”€â”€ cmd/
-â”‚ â””â”€â”€ myapp/ # Main application entry point
-â”‚ â””â”€â”€ main.go
-â”œâ”€â”€ internal/ # Private application and library code
-â”‚ â””â”€â”€ auth/ # Example: internal authentication logic
-â”‚ â””â”€â”€ db/ # Example: internal DB access code
-â”œâ”€â”€ pkg/ # Public library code (can be used by other projects)
-â”‚ â””â”€â”€ utils/ # Example: reusable utility functions
-â”œâ”€â”€ api/ # OpenAPI/Swagger specs, Protobuf, gRPC definitions
-â”œâ”€â”€ configs/ # Configuration files (JSON, YAML, TOML, etc.)
-â”œâ”€â”€ deployments/ # Docker, Kubernetes, Helm, etc.
-â”œâ”€â”€ scripts/ # Bash, CLI tools for setup, migration, CI, etc.
-â”œâ”€â”€ web/ # Web frontend (React, static files, templates, etc.)
-â”œâ”€â”€ test/ # Additional test data and utilities
-â”œâ”€â”€ go.mod
-â”œâ”€â”€ go.sum
-â””â”€â”€ README.md
+├── cmd/
+│ └── myapp/ # Main application entry point
+│ └── main.go
+├── internal/ # Private application and library code
+│ └── auth/ # Example: internal authentication logic
+│ └── db/ # Example: internal DB access code
+├── pkg/ # Public library code (can be used by other projects)
+│ └── utils/ # Example: reusable utility functions
+├── api/ # OpenAPI/Swagger specs, Protobuf, gRPC definitions
+├── configs/ # Configuration files (JSON, YAML, TOML, etc.)
+├── deployments/ # Docker, Kubernetes, Helm, etc.
+├── scripts/ # Bash, CLI tools for setup, migration, CI, etc.
+├── web/ # Web frontend (React, static files, templates, etc.)
+├── test/ # Additional test data and utilities
+├── go.mod
+├── go.sum
+└── README.md
 ```
 
 - Whether Junie should run tests to check the correctness of the proposed solution
@@ -57,3 +57,7 @@ As an option you can ask Junie to create these guidelines for you.
 
 - `If you are building CRUD application, then use postgres as the default database choice.`
 - `Make sure to always include a Dockerfile under deployments.`
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

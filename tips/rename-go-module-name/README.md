@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Rename Go Module Refactoring
 
@@ -13,3 +13,7 @@ Select _Rename_ from the list and change the module according to your needs.
 You can preview the changes by clicking on the _Preview_ button in the dialog or undo them with _Undo_ operation. You can also undo the change later using the _Local history_ feature.
 
 If you upgrade your module's import path to a new major version, don't forget to tag the release too.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

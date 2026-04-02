@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Multiple Selections
 
@@ -10,4 +10,8 @@ Select something as you normally would, or press <kbd>^G</kbd> (macOS) / <kbd>Al
 
 GoLand will search through the current file until it finds a matching piece of text, which it then adds to the selection.
 
-You can press <kbd>^G</kbd> (macOS) / <kbd>Alt+J</kbd> (Windows/Linux) again to go forward further, or <kbd>^â‡§G</kbd> (macOS) / <kbd>Alt+Shift+J</kbd> (Windows/Linux) to go backward. When the search reaches the end of the file, it will start over again from the beginning.
+You can press <kbd>^G</kbd> (macOS) / <kbd>Alt+J</kbd> (Windows/Linux) again to go forward further, or <kbd>^⇧G</kbd> (macOS) / <kbd>Alt+Shift+J</kbd> (Windows/Linux) to go backward. When the search reaches the end of the file, it will start over again from the beginning.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

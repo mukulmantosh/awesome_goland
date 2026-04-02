@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Expanding/Shrinking Selection
 
@@ -8,6 +8,10 @@ Use _Extend Selection_ to quickly select parts of your code using semantic knowl
 
 Selected too much, or using an already existing selection, and want to reduce the selection scope? Use the complimentary _Shrink Selection_ feature.
 
-Press <kbd>âŒ¥â†‘</kbd> (macOS) / <kbd>Ctrl+W</kbd> (Windows/Linux), to **Extend Selection**.
+Press <kbd>⌥↑</kbd> (macOS) / <kbd>Ctrl+W</kbd> (Windows/Linux), to **Extend Selection**.
 
-Press <kbd>âŒ¥â†“</kbd> (macOS) / <kbd>Ctrl+Shift+W</kbd> (Windows/Linux) to **Shrink Selection**.
+Press <kbd>⌥↓</kbd> (macOS) / <kbd>Ctrl+Shift+W</kbd> (Windows/Linux) to **Shrink Selection**.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

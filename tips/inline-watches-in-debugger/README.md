@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Inline Watches in Debugger
 
@@ -9,3 +9,7 @@ During debugging, you can keep your eyes on the code at all times, without havin
 The best part? When you move away to a different scope, if the variable is not contained by it, it won't be shown in the Debugger tool window either.
 
 During a debugging session, right-click on any variable you'd like to watch and select **Add inline watch** from the context menu.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

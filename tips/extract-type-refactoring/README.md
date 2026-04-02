@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Extract Type Refactoring
 
@@ -10,3 +10,7 @@ standalone type and reuse it across your code.
 Invoke **Refactor this** with <kbd>^T</kbd> (macOS) / <kbd>Ctrl+Alt+Shift+T</kbd> (Windows/Linux), on the anonymous type, then select the **Extract type** from the list of available refactorings.
 
 Give it a name and start reusing the newly created type in your code.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

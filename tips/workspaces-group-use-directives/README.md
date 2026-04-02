@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Group Multiple `use` Directives in `go.work`
 
@@ -6,4 +6,8 @@
 
 If you have multiple `use` directives in your `go.work` file, you can merge them in a single one with a quick-fix.
 
-Place the cursor on a `use` directive, press <kbd>âŒ¥âŽ</kbd> (macOS) / <kbd>Alt+Enter</kbd> (Windows/Linux), and select _Merge multiple use directives into one_.
+Place the cursor on a `use` directive, press <kbd>⌥⏎</kbd> (macOS) / <kbd>Alt+Enter</kbd> (Windows/Linux), and select _Merge multiple use directives into one_.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

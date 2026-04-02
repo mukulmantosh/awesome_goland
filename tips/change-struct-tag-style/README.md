@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Change Struct Tag Style
 
@@ -10,6 +10,10 @@ Choose between _snake_case_, _(lower) camelCase_, _(upper) CamelCase_, or _kebap
 
 **How to use:**
 
-Place the cursor on a struct field, then invoke the _Context Actions_ menu via <kbd>âŒƒâŽ</kbd> (macOS) / <kbd>Ctrl+Enter</kbd> (Windows/Linux).
+Place the cursor on a struct field, then invoke the _Context Actions_ menu via <kbd>⌃⏎</kbd> (macOS) / <kbd>Ctrl+Enter</kbd> (Windows/Linux).
 
 Select **Change field name style in tags**, and choose between one of the four styles available.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>

@@ -1,4 +1,4 @@
-﻿# Demo Walkthrough
+# Demo Walkthrough
 
 ### Put New Project Under Version Control
 
@@ -7,3 +7,7 @@
 _Work safely via VCS, via the keyboard._
 
 You started a new project or opened a local directory, and it's not yet under VCS. Here's the fastest way to do so, from the keyboard.
+
+<hr>
+
+<em>The following content is directly taken from the JetBrains Guide.</em>
